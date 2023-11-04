@@ -35,6 +35,7 @@ namespace SourceGen.AsmGen {
             Acme,
             Cc65,
             Merlin32,
+            Macro80
         }
 
         /// <summary>
